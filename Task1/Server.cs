@@ -45,15 +45,43 @@ namespace Task1
             while (true)
             {
                 byte[] buffer = server.Receive(ref endPoint);
-                string[] msg = Encoding.Unicode.GetString(buffer).Split(' ');
-                WriteLog("Client at Port :" + msg[0]);
-                WriteLog("at host :" + msg[1]);
-                WriteLog("need :" + msg[2]);
+                string receivedMessage = Encoding.Unicode.GetString(buffer);
 
-                buffer = Encoding.Unicode.GetBytes(DateTime.Now.ToString());
-                server.Send(buffer, buffer.Length, msg[1], int.Parse(msg[0]));
+                // Log the raw message for debugging
+                WriteLog($"Received raw message: {receivedMessage}");
+
+                // Split the message into parts
+                string[] msg = receivedMessage.Split(':');
+
+                // Ensure the message has at least three parts
+                if (msg.Length < 3)
+                {
+                    WriteLog("Invalid message format. Expected: 'port hostname message'.");
+                    continue; // Skip processing this message
+                }
+
+                // Extract the message components
+                string clientPort = msg[0];
+                string hostName = msg[1];
+                string clientMessage = string.Join(" ", msg.Skip(2)); // Combine the remaining parts
+
+                // Log the extracted components
+                WriteLog($"Client at Port: {clientPort}");
+                WriteLog($"Host: {hostName}");
+                WriteLog($"Message: {clientMessage}");
+
+                // Respond to the client
+                string serverResponse = txtServerMessage.Text; // Take response from the server's textbox
+                if (string.IsNullOrWhiteSpace(serverResponse))
+                {
+                    serverResponse = "Default Server Response"; // Fallback message
+                }
+
+                byte[] responseBuffer = Encoding.Unicode.GetBytes(serverResponse);
+                server.Send(responseBuffer, responseBuffer.Length, hostName, int.Parse(clientPort));
             }
         }
+
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
@@ -62,8 +90,13 @@ namespace Task1
 
         private void New_Click(object sender, EventArgs e)
         {
-            Client clientForm=new Client();
+            Client clientForm = new Client();
             clientForm.Show();
+        }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

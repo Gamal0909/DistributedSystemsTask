@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gamal\\source\\repos\\DistributedSystemsTasks\\Task1\\Task1.csproj": {}
+    "E:\\Github\\DistributedSystemsTasks\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gamal\\source\\repos\\DistributedSystemsTasks\\Task1\\Task1.csproj": {
+    "E:\\Github\\DistributedSystemsTasks\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gamal\\source\\repos\\DistributedSystemsTasks\\Task1\\Task1.csproj",
+        "projectUniqueName": "E:\\Github\\DistributedSystemsTasks\\Task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "C:\\Users\\Gamal\\source\\repos\\DistributedSystemsTasks\\Task1\\Task1.csproj",
+        "projectPath": "E:\\Github\\DistributedSystemsTasks\\Task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\Gamal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gamal\\source\\repos\\DistributedSystemsTasks\\Task1\\obj\\",
+        "outputPath": "E:\\Github\\DistributedSystemsTasks\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

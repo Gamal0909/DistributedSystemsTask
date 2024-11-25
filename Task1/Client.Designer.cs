@@ -86,7 +86,7 @@
             txtServerPort.Name = "txtServerPort";
             txtServerPort.Size = new Size(125, 27);
             txtServerPort.TabIndex = 9;
-            txtServerPort.TextChanged += txtServerPort_TextChanged;
+            //txtServerPort.TextChanged += txtServerPort_TextChanged;
             // 
             // ServerPort
             // 
@@ -149,7 +149,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(416, 450);
             Controls.Add(txtHostName);
             Controls.Add(label3);
             Controls.Add(txtClientPortnum);
@@ -164,7 +164,7 @@
             Controls.Add(ServerPort);
             Name = "Client";
             Text = "Client";
-            Load += Client_Load;
+            //Load += Client_Load;
             ResumeLayout(false);
             PerformLayout();
         }

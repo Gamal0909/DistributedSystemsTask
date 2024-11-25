@@ -1,36 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gamal\\source\\repos\\DistributedSystemsTasks\\",
+  "WorkspaceRootPath": "E:\\Github\\DistributedSystemsTasks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82C8DB97-414B-4EE9-A1AF-8442A54F8554}|Task1\\Task1.csproj|c:\\users\\gamal\\source\\repos\\distributedsystemstasks\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82C8DB97-414B-4EE9-A1AF-8442A54F8554}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82C8DB97-414B-4EE9-A1AF-8442A54F8554}|Task1\\Task1.csproj|c:\\users\\gamal\\source\\repos\\distributedsystemstasks\\task1\\task1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{82C8DB97-414B-4EE9-A1AF-8442A54F8554}|Task1\\Task1.csproj|solutionrelative:task1\\task1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DistributedSystemsTasks||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82C8DB97-414B-4EE9-A1AF-8442A54F8554}|Task1\\Task1.csproj|c:\\users\\gamal\\source\\repos\\distributedsystemstasks\\task1\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82C8DB97-414B-4EE9-A1AF-8442A54F8554}|Task1\\Task1.csproj|e:\\github\\distributedsystemstasks\\task1\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82C8DB97-414B-4EE9-A1AF-8442A54F8554}|Task1\\Task1.csproj|solutionrelative:task1\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82C8DB97-414B-4EE9-A1AF-8442A54F8554}|Task1\\Task1.csproj|c:\\users\\gamal\\source\\repos\\distributedsystemstasks\\task1\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{82C8DB97-414B-4EE9-A1AF-8442A54F8554}|Task1\\Task1.csproj|solutionrelative:task1\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82C8DB97-414B-4EE9-A1AF-8442A54F8554}|Task1\\Task1.csproj|C:\\Users\\Gamal\\source\\repos\\DistributedSystemsTasks\\task1\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{82C8DB97-414B-4EE9-A1AF-8442A54F8554}|Task1\\Task1.csproj|solutionrelative:task1\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82C8DB97-414B-4EE9-A1AF-8442A54F8554}|Task1\\Task1.csproj|c:\\users\\gamal\\source\\repos\\distributedsystemstasks\\task1\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82C8DB97-414B-4EE9-A1AF-8442A54F8554}|Task1\\Task1.csproj|e:\\github\\distributedsystemstasks\\task1\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82C8DB97-414B-4EE9-A1AF-8442A54F8554}|Task1\\Task1.csproj|solutionrelative:task1\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6393E0B8-53C3-4890-9015-B905D2EFAB80}|DistributedSystemsTasks\\DistributedSystemsTasks.csproj|c:\\users\\gamal\\source\\repos\\distributedsystemstasks\\distributedsystemstasks\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{82C8DB97-414B-4EE9-A1AF-8442A54F8554}|Task1\\Task1.csproj|E:\\Github\\DistributedSystemsTasks\\task1\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82C8DB97-414B-4EE9-A1AF-8442A54F8554}|Task1\\Task1.csproj|solutionrelative:task1\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C8DB97-414B-4EE9-A1AF-8442A54F8554}|Task1\\Task1.csproj|e:\\github\\distributedsystemstasks\\task1\\client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C8DB97-414B-4EE9-A1AF-8442A54F8554}|Task1\\Task1.csproj|solutionrelative:task1\\client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C8DB97-414B-4EE9-A1AF-8442A54F8554}|Task1\\Task1.csproj|E:\\Github\\DistributedSystemsTasks\\task1\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82C8DB97-414B-4EE9-A1AF-8442A54F8554}|Task1\\Task1.csproj|solutionrelative:task1\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C8DB97-414B-4EE9-A1AF-8442A54F8554}|Task1\\Task1.csproj|e:\\github\\distributedsystemstasks\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C8DB97-414B-4EE9-A1AF-8442A54F8554}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,51 +50,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Task1",
-              "DocumentMoniker": "C:\\Users\\Gamal\\source\\repos\\DistributedSystemsTasks\\Task1\\Task1.csproj",
-              "RelativeDocumentMoniker": "Task1\\Task1.csproj",
-              "ToolTip": "C:\\Users\\Gamal\\source\\repos\\DistributedSystemsTasks\\Task1\\Task1.csproj",
-              "RelativeToolTip": "Task1\\Task1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-24T17:41:15.756Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "Client.Designer.cs",
+              "DocumentMoniker": "E:\\Github\\DistributedSystemsTasks\\Task1\\Client.Designer.cs",
+              "RelativeDocumentMoniker": "Task1\\Client.Designer.cs",
+              "ToolTip": "E:\\Github\\DistributedSystemsTasks\\Task1\\Client.Designer.cs",
+              "RelativeToolTip": "Task1\\Client.Designer.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAWwKQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T23:55:25.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DistributedSystemsTasks",
-              "DocumentMoniker": "C:\\Users\\Gamal\\source\\repos\\DistributedSystemsTasks\\DistributedSystemsTasks\\DistributedSystemsTasks.csproj",
-              "RelativeDocumentMoniker": "DistributedSystemsTasks\\DistributedSystemsTasks.csproj",
-              "ToolTip": "C:\\Users\\Gamal\\source\\repos\\DistributedSystemsTasks\\DistributedSystemsTasks\\DistributedSystemsTasks.csproj*",
-              "RelativeToolTip": "DistributedSystemsTasks\\DistributedSystemsTasks.csproj*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-24T18:48:37.602Z",
-              "EditorCaption": ""
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Github\\DistributedSystemsTasks\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "E:\\Github\\DistributedSystemsTasks\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T18:48:27.781Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Gamal\\source\\repos\\DistributedSystemsTasks\\Task1\\Program.cs",
-              "RelativeDocumentMoniker": "Task1\\Program.cs",
-              "ToolTip": "C:\\Users\\Gamal\\source\\repos\\DistributedSystemsTasks\\Task1\\Program.cs",
-              "RelativeToolTip": "Task1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T18:48:27.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\Gamal\\source\\repos\\DistributedSystemsTasks\\Task1\\Client.cs",
+              "DocumentMoniker": "E:\\Github\\DistributedSystemsTasks\\Task1\\Client.cs",
               "RelativeDocumentMoniker": "Task1\\Client.cs",
-              "ToolTip": "C:\\Users\\Gamal\\source\\repos\\DistributedSystemsTasks\\Task1\\Client.cs",
-              "RelativeToolTip": "Task1\\Client.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "ToolTip": "E:\\Github\\DistributedSystemsTasks\\Task1\\Client.cs*",
+              "RelativeToolTip": "Task1\\Client.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-24T18:23:37.221Z",
               "EditorCaption": ""
@@ -109,38 +89,36 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Client.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Gamal\\source\\repos\\DistributedSystemsTasks\\Task1\\Client.cs",
+              "DocumentMoniker": "E:\\Github\\DistributedSystemsTasks\\Task1\\Client.cs",
               "RelativeDocumentMoniker": "Task1\\Client.cs",
-              "ToolTip": "C:\\Users\\Gamal\\source\\repos\\DistributedSystemsTasks\\Task1\\Client.cs [Design]",
+              "ToolTip": "E:\\Github\\DistributedSystemsTasks\\Task1\\Client.cs [Design]",
               "RelativeToolTip": "Task1\\Client.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T17:42:21.66Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-24T17:42:21.66Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Server.cs",
-              "DocumentMoniker": "C:\\Users\\Gamal\\source\\repos\\DistributedSystemsTasks\\Task1\\Server.cs",
+              "DocumentMoniker": "E:\\Github\\DistributedSystemsTasks\\Task1\\Server.cs",
               "RelativeDocumentMoniker": "Task1\\Server.cs",
-              "ToolTip": "C:\\Users\\Gamal\\source\\repos\\DistributedSystemsTasks\\Task1\\Server.cs",
+              "ToolTip": "E:\\Github\\DistributedSystemsTasks\\Task1\\Server.cs",
               "RelativeToolTip": "Task1\\Server.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAgwEEAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAQwF0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T20:55:22.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Server.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Gamal\\source\\repos\\DistributedSystemsTasks\\Task1\\Server.cs",
+              "DocumentMoniker": "E:\\Github\\DistributedSystemsTasks\\Task1\\Server.cs",
               "RelativeDocumentMoniker": "Task1\\Server.cs",
-              "ToolTip": "C:\\Users\\Gamal\\source\\repos\\DistributedSystemsTasks\\Task1\\Server.cs [Design]",
+              "ToolTip": "E:\\Github\\DistributedSystemsTasks\\Task1\\Server.cs [Design]",
               "RelativeToolTip": "Task1\\Server.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T20:32:55.42Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-23T20:32:55.42Z"
             }
           ]
         },
